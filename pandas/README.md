@@ -1,1 +1,1 @@
-This folder include datasets for pandas.
+This folder includes datasets for pandas.
