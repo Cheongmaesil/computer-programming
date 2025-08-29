@@ -1,2 +1,2 @@
 # computer-programming
-Inha university in aerospace engineering class
+Aerospace engineering class in Inha university
